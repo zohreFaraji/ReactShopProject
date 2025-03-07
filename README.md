@@ -1,4 +1,4 @@
-# ReactShopProject 🛍️🛒
+# ReactShopProject 🛍🛒
 
 ![Image](https://github.com/user-attachments/assets/08625af0-fb0e-47d0-995d-d3152bce7d13)
 ![Image](https://github.com/user-attachments/assets/4ed620f6-ea1e-45de-97ea-6c49d426a548)
